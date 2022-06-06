@@ -1,3 +1,6 @@
-DELETE [dbo].[events]
-WHERE [eventId]=@eventId
+-- DELETE [dbo].[events]
+-- WHERE [eventId]=@eventId
 
+
+EXECUTE spDeleteEvent 
+@eventId;

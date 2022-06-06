@@ -1,11 +1,11 @@
 -- INSERT INTO [dbo].[events]
 --     (
---         [eventTitle],
---         [eventDescription],
---         [startDate],
---         [endDate],
---         [avenue],
---         [maxMembers]
+        -- [eventTitle],
+        -- [eventDescription],
+        -- [startDate],
+        -- [endDate],
+        -- [avenue],
+        -- [maxMembers]
 --     )
 -- VALUES 
 --     (
